@@ -1,0 +1,10 @@
+$orange:#FF5316;
+$black:#1C1C1C;
+$grey:#5A5252;
+$t-grey:$black;
+
+.anim-eas-in{
+	transition: all 500ms ease;
+	-webkit-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+}
